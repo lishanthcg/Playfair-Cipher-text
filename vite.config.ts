@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Playfair-Cipher-text/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
