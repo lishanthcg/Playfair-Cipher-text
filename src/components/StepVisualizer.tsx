@@ -54,7 +54,7 @@ export const StepVisualizer: React.FC<StepVisualizerProps> = ({
     return (
       <div className="glass-panel rounded-2xl p-6 text-center border border-slate-200 dark:border-slate-800">
         <Sparkles className="w-8 h-8 text-cyan-500 mx-auto mb-2 opacity-60" />
-        <h3 className="text-sm font-semibold text-slate-800 dark:text-slate-200">Visualizer Ready</h3>
+        <h3 className="text-sm font-semibold text-slate-800 dark:text-slate-200">Visualizer Read Created by Lishanth</h3>
         <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
           Enter a keyword and text, then click <strong className="text-indigo-600 dark:text-indigo-400">Encrypt</strong> or{' '}
           <strong className="text-emerald-600 dark:text-emerald-400">Decrypt</strong> to generate the step-by-step animation.
