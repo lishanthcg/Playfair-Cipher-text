@@ -1,0 +1,6 @@
+{
+  "name": "Playfair Cipher Visualizer & Learning Portal",
+  "description": "Interactive Playfair Cipher calculator, step-by-step 5x5 matrix visualizer, animation engine, and cryptography learning portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
